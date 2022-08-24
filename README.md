@@ -1,2 +1,2 @@
 # kickstarter-analysis
-dmo on how to use github
+demo on how to use github
