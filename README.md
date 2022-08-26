@@ -1,4 +1,6 @@
-# Alalysis for Louise's Fundraising Campaign using Kickstarter Dataset
+# Analysis For Louise Using Kickstarter Dataset
 ---
-## Visualize Campaign Outcomes based on Launch Dates and Funding Goals
----
+## Visualize Campaign Outcomes based on
+-  Launch Dates
+-  Funding Goals
+### Give Better Understading about Outcomes on Launch Date and Goals
