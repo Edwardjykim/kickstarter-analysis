@@ -24,9 +24,9 @@
 ---
 ## Results
   ### Outcomes by Launch Date
-  -  Try to Avoid the Month that has Big Event such as Christmas or New Year
-  -  Target on Spring and Summer for better Result
+  -  Seasons affected alot, Big Events such as Christmas or New Year also triggered Lower Result
+  -  Spring and Summer had Best Results, Specially May and June had most Outcomes with good Success Rate
   ### Outcomes based on Goals
   -   Less than 1000 to 9999 Goals were 90.46% Participate Rate with Atleast more than 55% Rate of Success
   ### Limitations of the Dataset
-  
+  -  If Add Pledged rate to see more details on participate of the Campaign
