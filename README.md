@@ -29,4 +29,5 @@
   ### Outcomes based on Goals
   -   Less than 1000 to 9999 Goals were 90.46% Participate Rate with Atleast more than 55% Rate of Success
   ### Limitations of the Dataset
-  -  If Add Pledged rate to see more details on participate of the Campaign
+  -  If Add Pledged Rate to see more Details on Participate of the Campaign
+![Screenshot (6)](https://user-images.githubusercontent.com/111443997/187043106-fad36ed7-5c38-4eb4-833d-3879c7a869b0.png)
