@@ -15,4 +15,18 @@
 ![Screenshot (4)](https://user-images.githubusercontent.com/111443997/186810336-865b2f81-d53b-47ed-8e2f-3f9719da8f87.png)
 - Used Outcomes based on Funding Goals
 - Total Number of Project Result came from Less than 1000 to 9999
-- That is 90% of Total
+
+### Challenges and Difficulties Encountered
+  1.  When using COUNTIFS, understanding how to apply right Criterias Ranges with Criteria were Challenging
+  2.  Typo Mistake: Just One Number mistake lead to Totally different Chart Outcome
+  3.  Mostly get Familiar and get comfortable with Excel Tools and Skills were Challenging
+
+---
+## Results
+  ### Outcomes by Launch Date
+  -  Try to Avoid the Month that has Big Event such as Christmas or New Year
+  -  Target on Spring and Summer for better Result
+  ### Outcomes based on Goals
+  -   Less than 1000 to 9999 Goals were 90.46% Participate Rate with Atleast more than 55% Rate of Success
+  ### Limitations of the Dataset
+  
